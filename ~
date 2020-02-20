@@ -1,0 +1,9 @@
+# in /path/to/php.ini
+; Enable the extension
+
+extension = trend_app_protect.so
+
+; Add key and secret from the Application Protection dashboard
+trend_app_protect.key = b7f76835-8de9-4bd8-ad5e-86a39511d16a
+trend_app_protect.secret = 49947bf4-af85-4dc6-88fa-a05a02dbd829
+
